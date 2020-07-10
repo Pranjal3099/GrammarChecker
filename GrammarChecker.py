@@ -19,7 +19,7 @@ for _ in range(int(input("Enter number of sentences you want to check: "))):
             print(s)
             wrong=0
             print("This sentence is grammatically Correct.")
-            print("*"*20)
+            
         
         if wrong==1:
             print("This sentence is grammatically Inorrect.")
